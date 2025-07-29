@@ -16,7 +16,7 @@
 <body>
   <header>
     <h1>Nikhil Gaur</h1>
-    <p>Professional IT Consulting Services</p>
+    <p>IT Consulting Services</p>
   </header>
 
   <section>
@@ -25,15 +25,18 @@
 
     <h2>Services Offered</h2>
     <ul>
-      <li>Firewall & Network Security (SonicWall, etc.)</li>
+      <li>Firewall & Network Security (Sophos,Fortigate,SonicWall, etc.)</li>
+      <li>Email Client Configuration (Office365,Google Workspace, etc.)</li>
+      <li>Endpoint Protection Configuration and Policy Creation (Trenmicro,Seqrite, etc.)</li>
       <li>Server Setup & Maintenance (Windows Server, SQL)</li>
       <li>Backup & Disaster Recovery Planning</li>
       <li>Hyper-V & Virtual Machine Management</li>
-      <li>Door Access & Surveillance System Integration</li>
+      <li>Access Control & Surveillance System Integration</li>
     </ul>
 
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:nikhil@nikhilgaur.info">nikhil@nikhilgaur.info</a></p>
+    <p>Email: <a href="nikhilgaur230@gmail.com">nikhil@nikhilgaur.info</a></p>
+    <p>Contact: <a href="9354216206">nikhil@nikhilgaur.info</a></p>
     <p>Location: India (Available for remote consultations)</p>
   </section>
 
