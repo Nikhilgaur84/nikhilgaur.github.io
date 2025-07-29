@@ -35,8 +35,8 @@
     </ul>
 
     <h2>Contact</h2>
-    <p>Email: <a href="nikhilgaur230@gmail.com">nikhil@nikhilgaur.info</a></p>
-    <p>Contact: <a href="9354216206">nikhil@nikhilgaur.info</a></p>
+    <p>Email: <a href="nikhilgaur230@gmail.com">nikhilgaur230@gmail.com</a></p>
+    <p>Contact: <a href="9354216206">9354216206</a></p>
     <p>Location: India (Available for remote consultations)</p>
   </section>
 
